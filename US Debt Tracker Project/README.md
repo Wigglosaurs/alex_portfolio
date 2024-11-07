@@ -9,4 +9,4 @@
 ## Data Dictionary
 
 ### Debt Held by the Public
-#### - This is the portion of the US public debt held by individuals, corporations, foreign governments, and other entities outside the US government. 
+#### This is the portion of the US public debt held by individuals, corporations, foreign governments, and other entities outside the US government. 
