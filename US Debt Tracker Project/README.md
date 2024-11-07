@@ -6,6 +6,8 @@
 
 ### The US Government has requested an analysis of its public and governmental debt to answer some specific questions below.
 
+### Using the Questions and Data Dictionary provided, answer the questions using charts/graphs and narratives. 
+
 
 ## Data Dictionary
 
