@@ -6,6 +6,7 @@
 
 ### The US Government has requested an analysis of its public and governmental debt to answer some specific questions below.
 
+
 ## Data Dictionary
 
 ### Debt Held by the Public
@@ -16,3 +17,12 @@
 
 ### Total Public Debt Outstanding
 #### This is the sum of the debt held by the public and intragovernmental holdings. 
+
+
+## Questions
+
+### What was the Yearly Debt Percentage Increase of each year compared to the previous year?
+
+### Which months historically have seen the highest/lowest increases in Total debt?
+
+### What is the projected growth of the publicly held debt in the next few years?
